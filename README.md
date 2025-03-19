@@ -1,6 +1,6 @@
 # Aplicación de Venta de Viajes en JavaScript
 
-Link para ver resultado: [VENTA VIAJES]()
+Link para ver resultado: [VENTA VIAJES](https://davidcavaliere.github.io/javascript-viajes/)
 
 
 ## Funcionamiento del código JavaScript
